@@ -1,4 +1,4 @@
-[
+{"result":[
     {
         "link": "https://community.algolia.com/places/",
         "head": "Algolia Places",
@@ -153,5 +153,5 @@
         "about": "Helps in the secure development of Windows apps for Windows version 8 & 10.",
         "alt": "WinJS"
     }
-]
+]}
 
